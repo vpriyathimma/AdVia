@@ -57,3 +57,97 @@ Unlike cluttered productivity apps, AdVia prioritizes user focus, privacy, and s
 ```bash
 git clone https://github.com/vpriyathimma/AdVia.git
 cd AdVia
+### Development Requirements
+- Android Studio (Latest Stable Version Recommended)  
+- Android API Level 24+  
+- Gradle (auto-synced through Android Studio)  
+
+### Build the Project
+1. Open the project in Android Studio  
+2. Allow Gradle to sync dependencies  
+3. Connect a physical Android device or launch an emulator  
+4. Run the application
+
+---
+
+## Project Structure
+
+```bash
+AdVia/
+│── app/
+│   ┣ src/
+│   ┃ ┣ main/
+│   ┃ ┃ ┣ java/
+│   ┃ ┃ ┣ res/
+│   ┃ ┃ ┗ AndroidManifest.xml
+│── build.gradle
+│── settings.gradle
+└── README.md
+
+---
+
+## Current Scope
+
+### Core Focus:
+- Habit creation and management  
+- Daily streak tracking  
+- Personalized reminders  
+- User productivity enhancement  
+- Offline-first mobile experience  
+
+### Planned Enhancements:
+- Cloud sync and backup  
+- Cross-device account integration  
+- Advanced behavioral analytics  
+- Custom themes and personalization  
+- Social accountability features  
+
+---
+
+## Security & Privacy
+
+- Offline-first local data storage  
+- Room database for secure on-device persistence  
+- No unnecessary cloud dependency  
+- User-focused privacy design  
+- Reliable performance without internet dependency  
+
+---
+
+## Future Improvements
+
+- Firebase authentication and sync  
+- Gamification features (badges, milestones)  
+- AI-driven habit recommendations  
+- Calendar integrations  
+- Wearable device support  
+- Exportable progress reports  
+
+---
+
+## Why This Project Matters
+
+AdVia was developed not just as a productivity tool, but as an exploration of modern Android engineering principles including scalable architecture, responsive UI systems, and privacy-conscious app development.
+
+This project demonstrates practical expertise in:
+- Android Development  
+- Kotlin Programming  
+- MVVM Architecture  
+- Jetpack Libraries  
+- Mobile UX Design  
+
+---
+
+## Author
+
+**Vishnupriya T**
+
+- GitHub: https://github.com/vpriyathimma  
+- Email: vpriyathimma@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/vishnupriya-t-7a0b8925b/  
+
+---
+
+## License
+
+This project is intended for educational, portfolio, and productivity-focused development purposes. You may modify and expand it for personal or commercial improvements. 
