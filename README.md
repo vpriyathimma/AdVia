@@ -57,6 +57,8 @@ Unlike cluttered productivity apps, AdVia prioritizes user focus, privacy, and s
 ```bash
 git clone https://github.com/vpriyathimma/AdVia.git
 cd AdVia
+```
+
 ### Development Requirements
 - Android Studio (Latest Stable Version Recommended)  
 - Android API Level 24+  
@@ -66,7 +68,7 @@ cd AdVia
 1. Open the project in Android Studio  
 2. Allow Gradle to sync dependencies  
 3. Connect a physical Android device or launch an emulator  
-4. Run the application
+4. Run the application  
 
 ---
 
@@ -83,6 +85,7 @@ AdVia/
 │── build.gradle
 │── settings.gradle
 └── README.md
+```
 
 ---
 
@@ -150,4 +153,4 @@ This project demonstrates practical expertise in:
 
 ## License
 
-This project is intended for educational, portfolio, and productivity-focused development purposes. You may modify and expand it for personal or commercial improvements. 
+This project is intended for educational, portfolio, and productivity-focused development purposes. You may modify and expand it for personal or commercial improvements.
