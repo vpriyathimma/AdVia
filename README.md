@@ -40,14 +40,6 @@ If you are a developer and want to run this locally:
 
 ---
 
-### Future Plans
-I am currently looking into adding data export features (like CSV or JSON) so users can back up their history, as well as a dark mode toggle to better match system preferences.
-
----
-
-### Contact and Networking
-I'm always open to discussing Android development or habit-building strategies. Feel free to reach out or connect with me.
-
 **Vishnupriya T**  
 Email: vpriyathimma@gmail.com  
 LinkedIn: [Vishnupriya T](https://www.linkedin.com/in/vishnupriya-t-7a0b8925b/)
