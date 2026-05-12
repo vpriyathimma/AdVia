@@ -4,10 +4,6 @@ Consistency is the hardest part of building a new habit. I developed AdVia as a 
 
 The app allows you to set daily goals, track your streaks, and look back at your progress through simple analytics.
 
----
-
-### Why I Built This
-Most habit trackers either require a subscription or force you to sync your data to a cloud you don't control. I wanted to build something that respects user privacy and works perfectly offline. By using local storage, AdVia ensures that your habits are your own, and the app remains fast and responsive regardless of your internet connection.
 
 ---
 
