@@ -1,43 +1,59 @@
 # AdVia: Android Habit Tracker
 
-Consistency is the hardest part of building a new habit. I developed AdVia as a side project to create a habit-tracking experience that felt clean, reliable, and entirely focused on the user's progress. Unlike apps that feel cluttered or overwhelming, AdVia focuses on a minimal interface that helps you stay on track without the noise.
+AdVia is a minimalist Android habit-tracking application designed to help users build consistency, maintain motivation, and achieve personal growth through structured daily habit management.
 
-The app allows you to set daily goals, track your streaks, and look back at your progress through simple analytics.
+Built with a clean, distraction-free experience in mind, AdVia focuses on making habit formation simple by combining streak tracking, intelligent reminders, and progress analytics into a modern mobile experience.
 
-
----
-
-### Core Features
-*   **Streak Tracking:** A simple visual way to see how many days in a row you've stayed consistent.
-*   **Intelligent Reminders:** Daily notifications to keep your goals at the top of your mind.
-*   **Analytics and Insights:** Data-driven views that help you identify your strongest habits and where you might need more focus.
-*   **Modern UI:** A clean, gesture-based design built for a smooth user experience.
-*   **Offline First:** All data is stored locally on your device for speed and privacy.
+Unlike cluttered productivity apps, AdVia prioritizes user focus, privacy, and seamless usability while implementing modern Android development best practices.
 
 ---
 
-### The Technical Side
-I used this project as a way to implement modern Android development best practices.
+## Features
 
-*   **Language:** Kotlin .
-*   **UI Framework:** A mix of Jetpack Compose and XML to ensure a responsive and modern design.
-*   **Architecture:** MVVM (Model-View-ViewModel) to keep the business logic separate from the UI, making the app easier to test and maintain.
-*   **Jetpack Components:** Extensive use of Room for local database management and LiveData for reactive UI updates.
-
----
-
-### How to Build the Project
-If you are a developer and want to run this locally:
-
-1. Clone the repository: `git clone https://github.com/vpriyathimma/AdVia.git`
-2. Open the project in Android Studio (I recommend the latest stable version).
-3. Let Gradle sync and download the necessary dependencies.
-4. Run the app on a physical device or an emulator with API 24 or higher.
+- Daily habit creation and goal management  
+- Streak tracking to encourage consistency  
+- Intelligent reminder notifications for accountability  
+- Analytics and progress insights for habit performance  
+- Clean, gesture-friendly modern UI  
+- Offline-first architecture for privacy and speed  
+- Local data storage with secure on-device persistence  
 
 ---
 
-**Vishnupriya T**  
-Email: vpriyathimma@gmail.com  
-LinkedIn: [Vishnupriya T](https://www.linkedin.com/in/vishnupriya-t-7a0b8925b/)
+## Tech Stack
 
+### Mobile Development
+- Kotlin  
 
+### UI Framework
+- Jetpack Compose  
+- XML  
+
+### Architecture
+- MVVM (Model-View-ViewModel)  
+
+### Jetpack Components
+- Room Database  
+- LiveData  
+
+### Development Environment
+- Android Studio  
+
+---
+
+## How It Works
+
+1. Users create personalized daily habits  
+2. AdVia tracks completion status and streak continuity  
+3. Daily reminders help maintain consistency  
+4. Progress analytics provide insight into performance trends  
+5. All user data is securely stored locally for offline accessibility  
+
+---
+
+## Installation & Setup
+
+### Clone the Repository
+```bash
+git clone https://github.com/vpriyathimma/AdVia.git
+cd AdVia
