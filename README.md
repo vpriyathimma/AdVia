@@ -1,4 +1,4 @@
-# AdVia: A Mindful Android Habit Tracker
+# AdVia: Android Habit Tracker
 
 Consistency is the hardest part of building a new habit. I developed AdVia as a side project to create a habit-tracking experience that felt clean, reliable, and entirely focused on the user's progress. Unlike apps that feel cluttered or overwhelming, AdVia focuses on a minimal interface that helps you stay on track without the noise.
 
